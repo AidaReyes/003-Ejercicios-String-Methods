@@ -1,0 +1,1 @@
+const soloNumeros = (cadena) => /^\d+$/.test(cadena);
